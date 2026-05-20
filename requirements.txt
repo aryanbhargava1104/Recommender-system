@@ -1,0 +1,21 @@
+# --- Data Processing & Machine Learning ---
+pandas
+numpy
+scikit-learn
+tqdm
+
+# --- Deep Learning Framework ---
+torch
+
+# --- API Backend ---
+fastapi
+uvicorn
+
+# --- UI Frontend ---
+streamlit
+requests
+
+# --- Jupyter & Visualization (For your portfolio notebook) ---
+jupyterlab
+matplotlib
+seaborn
